@@ -1,4 +1,4 @@
-# 🔐 패스워드 강도 검사기 (Password Strength Checker)
+# 🔐 비밀번호 강도 검사기 (Password Strength Checker)
 
 ## 📘 프로젝트 개요
 이 프로그램은 사용자가 입력한 비밀번호의 강도를 분석하고, 약점을 피드백하는 콘솔 기반 C언어 프로그램입니다.  
